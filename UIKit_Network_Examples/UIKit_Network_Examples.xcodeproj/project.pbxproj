@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4EDC1A392B2DA5F500E62BC5 /* URLSession.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = URLSession.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4EDC1A3A2B2DA84D00E62BC5 /* Decode Data.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Decode Data.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4EDC1A3B2B2DACCF00E62BC5 /* Fetch Method.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Fetch Method.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4EDC1A3C2B2DB08400E62BC5 /* Using Combine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Using Combine.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		4EDC1A322B2DA5D700E62BC5 = {
+			isa = PBXGroup;
+			children = (
+				4EDC1A392B2DA5F500E62BC5 /* URLSession.playground */,
+				4EDC1A3C2B2DB08400E62BC5 /* Using Combine.playground */,
+				4EDC1A3B2B2DACCF00E62BC5 /* Fetch Method.playground */,
+				4EDC1A3A2B2DA84D00E62BC5 /* Decode Data.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4EDC1A332B2DA5D700E62BC5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1510;
+			};
+			buildConfigurationList = 4EDC1A362B2DA5D700E62BC5 /* Build configuration list for PBXProject "UIKit_Network_Examples" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4EDC1A322B2DA5D700E62BC5;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4EDC1A372B2DA5D700E62BC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4EDC1A382B2DA5D700E62BC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4EDC1A362B2DA5D700E62BC5 /* Build configuration list for PBXProject "UIKit_Network_Examples" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4EDC1A372B2DA5D700E62BC5 /* Debug */,
+				4EDC1A382B2DA5D700E62BC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4EDC1A332B2DA5D700E62BC5 /* Project object */;
+}
