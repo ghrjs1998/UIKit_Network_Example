@@ -3,10 +3,10 @@
     {
       "identity" : "kingfisher",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/onevcat/Kingfisher",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
       "state" : {
-        "revision" : "59eb199fdb8dd47733624e8b0277822d0232579e",
-        "version" : "7.2.2"
+        "revision" : "add0a87ec4e31e2ca2a0b2085f0559201e4f5918",
+        "version" : "7.10.1"
       }
     }
   ],
